@@ -139,6 +139,71 @@
         android:layout_height="43dp"
         android:layout_marginStart="16dp"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="140dp" />
+        tools:layout_editor_absoluteY="159dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/rectangle_13"
+        tools:layout_editor_absoluteY="673dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="43dp"
+        android:layout_height="39dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:srcCompat="@drawable/premium_icon_facebook_4494475"
+        tools:layout_editor_absoluteX="155dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="46dp"
+        android:layout_height="38dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:srcCompat="@drawable/premium_icon_instagram_4494488"
+        tools:layout_editor_absoluteX="292dp" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="44dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:srcCompat="@drawable/premium_icon_twitter_4494477"
+        tools:layout_editor_absoluteX="93dp" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="47dp"
+        android:layout_height="39dp"
+        app:srcCompat="@drawable/premium_icon_whatsapp_4494494"
+        tools:layout_editor_absoluteX="216dp"
+        tools:layout_editor_absoluteY="684dp" />
+
+    <RadioButton
+        android:id="@+id/radioButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="215dp"
+        tools:layout_editor_absoluteY="168dp" />
+
+    <RadioButton
+        android:id="@+id/radioButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="382dp" />
+
+    <RadioButton
+        android:id="@+id/radioButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="218dp"
+        tools:layout_editor_absoluteY="388dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
