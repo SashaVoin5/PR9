@@ -76,4 +76,187 @@
         android:textColor="#000000"
         tools:layout_editor_absoluteX="308dp"
         tools:layout_editor_absoluteY="241dp" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/vector"
+        tools:layout_editor_absoluteX="359dp"
+        tools:layout_editor_absoluteY="300dp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Нужен сахар?"
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="363dp" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rectangle_8"
+        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteY="368dp" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rectangle_8"
+        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteY="429dp" />
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="19dp"
+        android:layout_height="18dp"
+        app:srcCompat="@android:drawable/presence_online"
+        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteY="427dp" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="19dp"
+        android:layout_height="17dp"
+        app:srcCompat="@android:drawable/presence_online"
+        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteY="367dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Доставка"
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="424dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Добавки"
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="251dp"
+        tools:layout_editor_absoluteY="363dp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Самовывоз"
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="245dp"
+        tools:layout_editor_absoluteY="420dp" />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rectangle_8"
+        tools:layout_editor_absoluteX="357dp"
+        tools:layout_editor_absoluteY="368dp" />
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="19dp"
+        android:layout_height="18dp"
+        app:srcCompat="@android:drawable/presence_online"
+        tools:layout_editor_absoluteX="357dp"
+        tools:layout_editor_absoluteY="366dp" />
+
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rectangle_8"
+        tools:layout_editor_absoluteX="357dp"
+        tools:layout_editor_absoluteY="424dp" />
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="18dp"
+        android:layout_height="23dp"
+        app:srcCompat="@android:drawable/presence_online"
+        tools:layout_editor_absoluteX="372dp"
+        tools:layout_editor_absoluteY="419dp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Заполните данные, мы с вами свяжемся"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="81dp"
+        tools:layout_editor_absoluteY="488dp" />
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="355dp"
+        android:layout_height="36dp"
+        app:srcCompat="@drawable/rectangle_2"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="524dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Введите свое имя"
+        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteY="532dp" />
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="331dp"
+        android:layout_height="39dp"
+        app:srcCompat="@drawable/rectangle_2"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="584dp" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Введите свой номер телефона"
+        tools:layout_editor_absoluteX="65dp"
+        tools:layout_editor_absoluteY="596dp" />
+
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="302dp"
+        android:layout_height="33dp"
+        app:srcCompat="@drawable/rectangle_13"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="640dp" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Отправить"
+        tools:layout_editor_absoluteX="155dp"
+        tools:layout_editor_absoluteY="647dp" />
+
+    <ImageView
+        android:id="@+id/imageView25"
+        android:layout_width="298dp"
+        android:layout_height="34dp"
+        app:srcCompat="@drawable/rectangle_13"
+        tools:layout_editor_absoluteX="56dp"
+        tools:layout_editor_absoluteY="681dp" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Найти место"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="687dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
